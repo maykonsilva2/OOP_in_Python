@@ -9,3 +9,13 @@ _____________________________________________________________________________
   This is a small job done for the programming course, using the OOP paradigm
 (Este é um pequeno trabalho feito para o curso de programação, usando o paradigma de OOP:)
 
+![iconfinder_mortar-board_298716 (1)](https://user-images.githubusercontent.com/50759048/93635679-16885e80-f9c9-11ea-93fa-5acb674e4446.png)
+## what was used?
+(o que foi usado ?)
+
+- Encapsulation(encapsulamento)
+- Polymorphism(polimorfismo)
+- Heritage(herença)
+
+**language**
+- Python
